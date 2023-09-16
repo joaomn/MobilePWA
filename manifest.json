@@ -13,16 +13,12 @@
   "categories": ["business", "education", "kids"],
   "screenshots": [],
   "icons": [
-    {
-      "src": "assets/img/icon_tjj.ico",
-      "sizes": "16x16 32x32 48x48 64x64 128x128 256x256 512x512",
-      "type": "image/x-icon",
-      "purpose": "maskable any"
-    },
+  
        {
       "src": "assets/img/AppIcons/Assets.xcassets/AppIcon.appiconset/icon_512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable any"
     },
     
     {
