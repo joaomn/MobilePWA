@@ -385,6 +385,17 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+<script>
+  if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/service-worker.js') // Verifique o caminho para o seu service worker
+        .then(function (registration) {
+          console.log('Service Worker registrado com sucesso:', registration);
+        })
+        .catch(function (error) {
+          console.log('Erro ao registrar o Service Worker:', error);
+        });
+    }
+</script>
 
 
 </body>
