@@ -74,8 +74,8 @@
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/icon_180.png",
-      "sizes": "180x180",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_144.png",
+      "sizes": "144x144",
       "type": "image/png"
     },
     {
@@ -103,8 +103,8 @@
   "shortcuts": [
     {
       "name": "tiojoao",
-      "url": "",
-      "description": ""
+      "url": "/index.html",
+      "description": "Abrir o aplicativo da Turminha do Tio João"
     }
   ],
   "id": "tiojoao"
