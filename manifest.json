@@ -91,7 +91,8 @@
     {
       "src": "assets/img/AppIcons/Assets.xcassets/512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable any"
     },
     {
       "src": "assets/img/AppIcons/android/mipmap-hdpi/ic_tjj.png",
