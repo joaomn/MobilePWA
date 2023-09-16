@@ -1158,7 +1158,10 @@ section {
 
 .portfoio .portfolio-item {
   margin-bottom: 30px;
+  
+  
   overflow: hidden;
+  
 }
 
 .portfoio .portfolio-item img {
