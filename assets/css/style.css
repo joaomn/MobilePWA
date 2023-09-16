@@ -178,7 +178,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: #f5c000;
+  background: #0a6789;
   bottom: 0;
 }
 
@@ -2273,7 +2273,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #05579e;
+  background: #0a6789;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -2281,7 +2281,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #05579e;
+  background: #0a6789;
 }
 
 #footer .footer-newsletter h4 {
@@ -2327,7 +2327,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #fecd23;
+  background: #0a6789;
   padding: 60px 0 30px 0;
 }
 
@@ -2350,23 +2350,29 @@ section {
   font-family: "Raleway", sans-serif;
   color: #fff;
 }
-
+.social-links {
+  text-align: center;
+  /* Centralizar os ícones horizontalmente */
+}
 #footer .footer-top .social-links a {
-  font-size: 16px;
+  font-size: 46px;
   display: inline-block;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.041);
   color: #fff;
   line-height: 1;
-  padding: 10px 0;
-  margin-right: 4px;
+  padding: 13px 10px ;
+  margin-right: 40px;
   border-radius: 50%;
   text-align: center;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
+  width: 60px;
+  height: 60px;
   transition: 0.3s;
+  right: 500px;
 }
+
+
 
 #footer .footer-top .social-links a:hover {
   background: #f6b024;
