@@ -1038,18 +1038,13 @@ section {
 --------------------------------------------------------------*/
 .services .icon-box {
   margin-bottom: 20px;
-  padding: 50px 40px;
+  padding: 50px 10px;
   border-radius: 6px;
   background: #fff;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 15px rgba(7, 7, 7, 0.685);
 }
 
-.services .icon-box i {
-  float: left;
-  color: #f6b024;
-  font-size: 40px;
-  line-height: 0;
-}
+
 
 .services .icon-box h4 {
   margin-left: 70px;
@@ -1078,7 +1073,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(5, 74, 133, 0.8), rgba(5, 74, 133, 0.9)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(64, 92, 116, 0.8), rgba(42, 90, 133, 0.9)), url("../img/tio_joao.png") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
