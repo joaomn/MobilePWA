@@ -6,8 +6,7 @@ const cacheName = 'tio-joao-cache';
 // Lista de arquivos a serem armazenados em cache, incluindo imagens
 const filesToCache = [
   '/',
-  '/index.html',
-  '/assets/css/style.css',
+  '/index.html',  
   '/assets/img/icon_tjj.ico',
   '/assets/img/apple-touch-icon.png',
   '/assets/img/Projeto Remover fundo.png', 
