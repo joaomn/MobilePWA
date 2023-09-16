@@ -19,6 +19,11 @@
       "type": "image/x-icon",
       "purpose": "maskable any"
     },
+       {
+      "src": "assets/img/AppIcons/Assets.xcassets/AppIcon.appiconset/512.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
     
     {
       "src": "assets/img/AppIcons/android/mipmap-hdpi/ic_tjj.png",
