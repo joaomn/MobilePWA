@@ -29,11 +29,11 @@ const filesToCache = [
   'assets/vendor/swiper/swiper-bundle.min.css',
   'assets/css/style.css',
   'assets/vendor/aos/aos.js',
-'assets/vendor/bootstrap/js/bootstrap.bundle.min.js',
-'assets/vendor/glightbox/js/glightbox.min.js',
-'assets/vendor/isotope-layout/isotope.pkgd.min.js',
-'assets/vendor/swiper/swiper-bundle.min.js',
-'assets/js/main.js'
+    'assets/vendor/bootstrap/js/bootstrap.bundle.min.js',
+    'assets/vendor/glightbox/js/glightbox.min.js',
+    'assets/vendor/isotope-layout/isotope.pkgd.min.js',
+    'assets/vendor/swiper/swiper-bundle.min.js',
+    'assets/js/main.js'
 ];
 
 // Evento de instalação do service worker

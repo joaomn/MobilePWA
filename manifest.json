@@ -19,77 +19,77 @@
       "type": "image/x-icon"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/16.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_16.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/32.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/60.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_60.png",
       "sizes": "60x60",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/64.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_64.png",
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/80.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_80.png",
       "sizes": "80x80",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/87.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_87.png",
       "sizes": "87x87",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/88.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_88.png",
       "sizes": "88x88",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/92.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_92.png",
       "sizes": "92x92",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/100.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_100.png",
       "sizes": "100x100",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/114.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_114.png",
       "sizes": "114x114",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/120.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_120.png",
       "sizes": "120x120",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/180.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_180.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/216.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_216.png",
       "sizes": "216x216",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/256.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_256.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "assets/img/AppIcons/Assets.xcassets/512.png",
+      "src": "assets/img/AppIcons/Assets.xcassets/icon_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
