@@ -73,11 +73,7 @@
       "sizes": "120x120",
       "type": "image/png"
     },
-    {
-      "src": "assets/img/AppIcons/Assets.xcassets/icon_144.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
+   
     {
       "src": "assets/img/AppIcons/Assets.xcassets/icon_216.png",
       "sizes": "216x216",
