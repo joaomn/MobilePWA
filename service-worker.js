@@ -33,7 +33,8 @@ const filesToCache = [
     'assets/vendor/glightbox/js/glightbox.min.js',
     'assets/vendor/isotope-layout/isotope.pkgd.min.js',
     'assets/vendor/swiper/swiper-bundle.min.js',
-    'assets/js/main.js'
+    'assets/js/main.js',
+    'assets/js/features.js'
 ];
 
 // Evento de instalação do service worker
