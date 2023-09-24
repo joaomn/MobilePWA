@@ -2452,3 +2452,37 @@ section {
 #footer .credits a {
   color: #f6b024;
 }
+
+.containerTradutor{
+  background: #81aed48f;
+  border: #032e54 solid 2px;
+  margin-top: 5px;
+  padding: 5px;
+  display: flex;
+  justify-content: start;
+  align-content: center;
+}
+
+.containerTradutor h3{
+  width: 80%;
+  animation-delay: 0.4s;
+  margin: 0 auto 30px auto;
+  color: #0c34e9;
+  font-weight: 900;
+}
+
+.resposta{
+  display: none;
+  background: #81aed48f;
+  border: #032e54 solid 2px;
+  margin-top: 0;
+  
+}
+
+.resposta h2{
+  width: 80%;
+  animation-delay: 0.4s;
+  margin: 0 auto 30px auto;
+  color: #0b0bee;
+  font-weight: 900;
+}
